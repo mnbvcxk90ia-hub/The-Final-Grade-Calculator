@@ -1,5 +1,4 @@
 User-agent: *
 
 Allow: /
-
 Sitemap: https://the-final-grade-calculator.generatornamechina.com/sitemap.xml
